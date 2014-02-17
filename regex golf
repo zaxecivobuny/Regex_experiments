@@ -1,0 +1,3 @@
+regex golf:
+
+7. Prime - ^((x(x{2})*)|xx)$
